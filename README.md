@@ -36,4 +36,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# pg-cs-usm1
+# PROJECT ITS - USM NUSA INTERNSHIP
+I'm working on Master of Science (Post Graduate of School of Computer Sciences) USM, Company Profile Website. <br>
+## Wordpress (LOCALHOST:8888)
+## Next JS (LOCALHOST:3000)
+(sc can be found in this repo)
+
+## UI/UX Design (website & brochure)
+<a href="https://www.figma.com/file/fDCY3GwOMYFs53SfnTyMyW/USM-PROJECT?type=design&node-id=96%3A285&mode=design&t=tIoy1roWQXJbsFR3-1">SASTI'S FIGMA</a>
+
+### thank you
